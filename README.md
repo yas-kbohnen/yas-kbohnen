@@ -1,16 +1,30 @@
-## Hi there 👋
+<table style="border: none;">
+  <tr>
+    <td valign="top" width="55%">
+      
+### Olá, meu nome é Yasmin!
 
-<!--
-**yas-kbohnen/yas-kbohnen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🎨 Apaixonada por transformar ideias em interfaces intuitivas  
+- 💻 Explorando o mundo do Front-end e UI Design  
+- 🌱 Motivada por criar soluções que ajudem pessoas de verdade
 
-Here are some ideas to get you started:
+### Onde me encontrar: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=yas-kbohnen&color=f8efd4&style=for-the-badge)](https://github.com/yas-kbohnen)  
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=yas.kbohnen&color=f8efd4&style=for-the-badge)](https://www.linkedin.com/in/yasmin-kaefer-bohnen-b4341234b/)  
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=yas.kbohnen&color=f8efd4&style=for-the-badge)](https://www.instagram.com/yas.kbohnen/)
+
+   </td>
+   <td valign="top" width="45%">
+     
+<img src="https://github-readme-stats.vercel.app/api?username=yas-kbohnen&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub da Yasmin" />
+
+<br>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas-kbohnen&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4" alt="Linguagens mais usadas" />
+
+   </td>
+  </tr>
+</table>
