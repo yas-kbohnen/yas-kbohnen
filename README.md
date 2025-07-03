@@ -10,7 +10,6 @@
   [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=yas-kbohnen&color=f8efd4&style=for-the-badge)](https://github.com/yas-kbohnen)  
   [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=yas.kbohnen&color=f8efd4&style=for-the-badge)](https://www.linkedin.com/in/yasmin-kaefer-bohnen-b4341234b/)  
   [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=yas.kbohnen&color=f8efd4&style=for-the-badge)](https://www.instagram.com/yas.kbohnen/)
-  <br>[![Gmail](https://img.shields.io/static/v1?label=E-mail&message=yas.kbohnen&color=f8efd4&style=for-the-badge)](mailto:yas.kbohnen@gmail.com)
   
   ### GitHub Stats:
   
