@@ -1,6 +1,6 @@
-<table style="border: 1px solid transparent;">
+<table border="0" style="border-collapse: collapse;">
   <tr>
-    <td valign="top" width="50%" style="border: none !important;">
+    <td valign="top" width="50%" style="border: none;">
       
 ### Olá, meu nome é Yasmin!
 
@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=yas.kbohnen&color=f8efd4&style=for-the-badge)](https://www.instagram.com/yas.kbohnen/)
 
    </td>
-   <td valign="top" width="50%" style="border: none !important;">
+   <td valign="top" width="50%" style="border: none;">
      
 <img src="https://github-readme-stats.vercel.app/api?username=yas-kbohnen&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub da Yasmin" />
 
