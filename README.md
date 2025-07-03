@@ -1,6 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; background-color: #f8efd4; padding: 10px; border-radius: 10px;">
-
-  ### Olá, meu nome é Yasmin!
+### Olá, meu nome é Yasmin!
 
   - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
   - 🎨 Apaixonada por transformar ideias em interfaces intuitivas  
@@ -20,5 +18,3 @@
   ### Linguagens mais utilizadas:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yas-kbohnen&hide_title=true&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4" alt="Linguagens mais usadas" />
-
-</div>
