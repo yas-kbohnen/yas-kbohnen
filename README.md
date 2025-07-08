@@ -7,7 +7,7 @@
   - Motivada por criar soluções que ajudem pessoas de verdade
 
   ### Projetos em Destaque
-  Em breve projetos pessoais e acadêmicos estarão por aqui!
+  Meu Perfil | https://yas-kbohnen.github.io/meu-perfil/
 
   ### Onde me encontrar:
 
